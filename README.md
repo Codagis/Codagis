@@ -55,6 +55,7 @@ Visite nosso site para conhecer mais sobre nossos projetos e como podemos ajudar
 
 ## 👥 Colaboradores
 
-| [<img src="https://github.com/kauaferr0412.png" width="100px;"/><br /><sub><b>Kauã Ferreira</b></sub>](https://github.com/kauaferr0412) | [<img src="https://github.com/LKaio16.png" width="100px;"/><br /><sub><b>Luis Kaio</b></sub>](https://github.com/LKaio16) | [<img src="https://github.com/LuanBenevides.png" width="100px;"/><br /><sub><b>Luan Benevides</b></sub>](https://github.com/LuanBenevides) |
+| [<img src="https://github.com/kauaferr0412.png" width="100px;"/><br /><sub>🎯<br /><b>Kauã Ferreira</b><br/>Desenvolvedor Fullstack</sub>](https://github.com/kauaferr0412) | [<img src="https://github.com/LKaio16.png" width="100px;"/><br /><sub>🚀<br /><b>Luis Kaio</b><br/>Engenheiro de Software</sub>](https://github.com/LKaio16) | [<img src="https://github.com/LuanBenevides.png" width="100px;"/><br /><sub>⚡<br /><b>Luan Benevides</b><br/>DevOps e Backend</sub>](https://github.com/LuanBenevides) |
 | :---: | :---: | :---: |
+
 
