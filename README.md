@@ -55,6 +55,6 @@ Visite nosso site para conhecer mais sobre nossos projetos e como podemos ajudar
 
 ## 👥 Colaboradores
 
-| [<img src="https://github.com/kauaferr0412" width="100px;"/><br /><sub><b>Kauã Ferreira</b></sub>](https://github.com/kauaferr0412) | [<img src="https://github.com/mariaoliveira.png" width="100px;"/><br /><sub><b>Maria Oliveira</b></sub>](https://github.com/mariaoliveira) | [<img src="https://github.com/pedrosouza.png" width="100px;"/><br /><sub><b>Pedro Souza</b></sub>](https://github.com/pedrosouza) | [<img src="https://github.com/analima.png" width="100px;"/><br /><sub><b>Ana Lima</b></sub>](https://github.com/analima) |
+| [<img src="https://github.com/kauaferr0412.png" width="100px;"/><br /><sub><b>Kauã Ferreira</b></sub>](https://github.com/kauaferr0412) | [<img src="https://github.com/mariaoliveira.png" width="100px;"/><br /><sub><b>Maria Oliveira</b></sub>](https://github.com/mariaoliveira) | [<img src="https://github.com/pedrosouza.png" width="100px;"/><br /><sub><b>Pedro Souza</b></sub>](https://github.com/pedrosouza) | [<img src="https://github.com/analima.png" width="100px;"/><br /><sub><b>Ana Lima</b></sub>](https://github.com/analima) |
 | :---: | :---: | :---: | :---: |
 
