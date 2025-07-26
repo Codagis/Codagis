@@ -52,3 +52,9 @@ Visite nosso site para conhecer mais sobre nossos projetos e como podemos ajudar
 ---
 
 **CODAGIS** - Transformando Ideias em Realidade Digital.
+
+## 👥 Colaboradores
+
+| [<img src="https://github.com/joaosilva.png" width="100px;"/><br /><sub><b>João Silva</b></sub>](https://github.com/joaosilva) | [<img src="https://github.com/mariaoliveira.png" width="100px;"/><br /><sub><b>Maria Oliveira</b></sub>](https://github.com/mariaoliveira) | [<img src="https://github.com/pedrosouza.png" width="100px;"/><br /><sub><b>Pedro Souza</b></sub>](https://github.com/pedrosouza) | [<img src="https://github.com/analima.png" width="100px;"/><br /><sub><b>Ana Lima</b></sub>](https://github.com/analima) |
+| :---: | :---: | :---: | :---: |
+
